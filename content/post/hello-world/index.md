@@ -1,7 +1,7 @@
 ---
-title: first test
+title: First Blog
 description: Welcome to Hugo Theme Stack
-slug: hello-world
+slug: 第一篇博客
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
 categories:
